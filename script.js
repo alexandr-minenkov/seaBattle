@@ -175,7 +175,6 @@ const init = () => {
         play.render();
     
     });
-    console.log(game.ships);
 };
 
 
